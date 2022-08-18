@@ -6,9 +6,6 @@
 
 // @lc code=start
 
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     int maxEqualFreq(vector<int>& nums) {
@@ -62,10 +59,3 @@ public:
     }
 };
 // @lc code=end
-
-// int main(int argc, const char** argv) {
-//     Solution so;
-
-//     return 0;
-// }
-
